@@ -6,8 +6,6 @@ repo: ariastudiosstatus # Your Github repository name
 sites:
   - name: Aria Studios Administration Hub
     url: https://my.ariastudio.dev
-  - name: Aria Studios Support Center
-    url: https://support.ariastudio.dev
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
