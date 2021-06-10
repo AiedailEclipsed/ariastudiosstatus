@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/my.ariastudio.dev",
     "slug": "aria-studios-administration-hub",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 981,
-    "timeDay": 259,
-    "timeWeek": 310,
-    "timeMonth": 332,
-    "timeYear": 981,
+    "uptimeYear": "99.99%",
+    "time": 977,
+    "timeDay": 275,
+    "timeWeek": 312,
+    "timeMonth": 333,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2021-02-12": 37
     }
