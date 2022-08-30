@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/my.ariastudio.dev",
     "slug": "aria-studios-administration-hub",
     "status": "down",
-    "uptime": "96.98%",
+    "uptime": "96.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.70%",
-    "uptimeYear": "94.92%",
-    "time": 479,
+    "uptimeMonth": "37.40%",
+    "uptimeYear": "94.64%",
+    "time": 477,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 348,
+    "timeMonth": 338,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2022-08-29": 145,
+      "2022-08-30": 149,
+      "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
       "2022-08-26": 1440,
@@ -44,8 +45,7 @@
       "2021-10-28": 19,
       "2021-10-07": 22,
       "2021-09-30": 18,
-      "2021-09-27": 16,
-      "2021-08-30": 18
+      "2021-09-27": 16
     }
   }
 ]
