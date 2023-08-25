@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.ariastudio.dev.ico",
     "slug": "aria-studios-administration-hub",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.79%",
+    "uptimeYear": "95.07%",
     "time": 347,
-    "timeDay": 273,
-    "timeWeek": 277,
-    "timeMonth": 292,
+    "timeDay": 360,
+    "timeWeek": 273,
+    "timeMonth": 298,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2023-06-26": 16,
@@ -38,8 +38,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   }
 ]
