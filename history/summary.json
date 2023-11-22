@@ -4,8 +4,8 @@
     "url": "https://my.ariastudio.dev",
     "icon": "https://icons.duckduckgo.com/ip3/my.ariastudio.dev.ico",
     "slug": "aria-studios-administration-hub",
-    "status": "up",
-    "uptime": "96.94%",
+    "status": "down",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 307,
     "timeYear": 332,
     "dailyMinutesDown": {
+      "2023-11-22": 0,
       "2023-06-26": 16,
       "2023-05-31": 95,
       "2023-05-01": 20,
